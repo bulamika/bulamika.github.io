@@ -1,10 +1,10 @@
 <h1><p align="center">🎐关东煮小铺🍢</p></h1>
 
-<p align="center"> <img src="https://github.com/bulamika/bulamika.github.io/blob/main/images/%E5%AE%A3%E4%BC%A0%E5%9B%BE.png" width="700" > </p>
-
 [推特](https://twitter.com/Bula_Mika)  
 [Pixiv](https://www.pixiv.net/users/13454241)
 [Fanbox](https://bulamika.fanbox.cc/)
+
+<p align="center"> <img src="https://github.com/bulamika/bulamika.github.io/blob/main/images/%E5%AE%A3%E4%BC%A0%E5%9B%BE.png" width="700" > </p>
 
 
 
