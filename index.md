@@ -1,4 +1,4 @@
-0## 🎐关东煮小铺🍢
+## 🎐关东煮小铺🍢
 
 [推特](https://twitter.com/Bula_Mika)
 [Pixiv](https://www.pixiv.net/users/13454241)
