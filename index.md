@@ -2,6 +2,9 @@
 
 [推特](https://twitter.com/Bula_Mika)
 [Pixiv](https://www.pixiv.net/users/13454241)
+[Fanbox](https://bulamika.fanbox.cc/)
+
+![近期作品](
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
