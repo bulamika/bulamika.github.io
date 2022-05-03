@@ -1,10 +1,10 @@
-## 🎐关东煮小铺🍢
+0## 🎐关东煮小铺🍢
 
 [推特](https://twitter.com/Bula_Mika)
 [Pixiv](https://www.pixiv.net/users/13454241)
 [Fanbox](https://bulamika.fanbox.cc/)
 
-![近期作品](
+![近期作品](https://github.com/bulamika/bulamika.github.io/blob/main/images/%E5%AE%A3%E4%BC%A0%E5%9B%BE.png)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
