@@ -5,31 +5,11 @@
 <a href="https://twitter.com/Bula_Mika">Twitter</a> | <a href="https://www.pixiv.net/users/13454241">Pixiv</a> | <a href="https://bulamika.fanbox.cc/">Fanbox</a>
 </p>
 
+------------------------------------------------------
+你可能想知道的：
+约稿档期 | <a href="https://github.com/bulamika/bulamika.github.io/blob/main/commission/%E7%BA%A6%E7%A8%BF%E9%A1%BB%E7%9F%A5.md">约稿须知</a>
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
