@@ -10,11 +10,3 @@
 约稿档期 | <a href="https://github.com/bulamika/bulamika.github.io/blob/main/commission/%E7%BA%A6%E7%A8%BF%E9%A1%BB%E7%9F%A5.md">约稿须知</a>
 
 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bulamika/bulamika.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
