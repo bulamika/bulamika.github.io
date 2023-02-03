@@ -11,7 +11,7 @@
 
 如有绘画错误请在这个阶段指出，它们会被修正。
 如有修改需求，支持一些小改，但大改需要**加价**，还请谅解。
-大改的定义包括推翻大部分草稿/重画
+大改的定义包括推翻大部分草稿/重画  
 Please indicate any drawing errors/mistakes from my end at this stage; they will be fixed.
 If changing required, small changes are capable. Please be reminded that **Addtional charges** are required if want to make major changes.
 Major changes include changing most part of/redraw the rough sketch
