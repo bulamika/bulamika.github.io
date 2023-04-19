@@ -1,4 +1,4 @@
-<h1><p align="center">🎐关东煮小铺🍢</p></h1>
+<h1><p align="center">🎐Bula's Oden Shop🍢</p></h1>
 <h4><p align="center">-或许你在这里可以吃到美味的炖煮-</p></h4>
 <p align="center"> <img src="https://github.com/bulamika/bulamika.github.io/blob/main/images/%E5%AE%A3%E4%BC%A0%E5%9B%BE.png" width="700" > </p>
 <p align="center">
